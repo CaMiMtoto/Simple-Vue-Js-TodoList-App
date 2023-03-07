@@ -1,6 +1,6 @@
 # TO DO LIST APP
 
-This is a simple to do list app that allows you to add, edit, and delete tasks. It is built using Vue.js,Vite and Tailwind CSS.
+This is a simple to do list app that allows you to add and delete tasks. It is built using Vue.js,Vite and Tailwind CSS.
 
 
 ## Project setup
